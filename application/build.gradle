@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "net.zaibatsutel.atomic"
-        minSdkVersion 14
+        minSdkVersion 21
         targetSdkVersion 22
     }
 
